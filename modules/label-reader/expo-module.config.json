@@ -1,0 +1,1 @@
+{"platforms":["android","apple"],"android":{"modules":["com.valorcerto.labelreader.LabelReaderModule"]},"apple":{"modules":["LabelReaderModule"]}}
